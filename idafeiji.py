@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#test
+
 # File Name: 01_搭建界面.py
 # Author: wangqi
 # mail: qi77wang@163.com
